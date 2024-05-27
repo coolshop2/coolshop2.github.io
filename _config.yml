@@ -17,12 +17,12 @@ minimal_mistakes_skin2    : "dark"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "핫딜리뷰"
+title                    : "쿨샵"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "핫딜리뷰"
+name                     : "쿨샵"
 description              : "Dev blog"
-url                      : "https://trendyglow.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://coolshop2.github.io" # the base hostname & protocol for your site e.g. "https://coolshop2.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "sun0te/comments_sun0te" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/teaser_post.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "핫딜리뷰"
+  name             : "쿨샵"
   avatar           : "images/profile/Beeface.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "구매하기전 필수!! <br>상품의 특징과 장단점 사용방법을 알려드려요^^"
+  bio              : "구매하기전 필수!! <br>전연령층을 위한 핫한 쇼핑몰 쿨샵^^"
   location         : "Republic of Korea"
   email            :
   links:
@@ -115,7 +115,7 @@ author:
     #  url: "homoon84@gmail.com"
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
-    #  url: "https://trendyglow.github.io"
+    #  url: "https://coolshop2.github.io"
     - label: "텔레그램"
       icon: "fab fa-fw fa-github"
       url: ""
